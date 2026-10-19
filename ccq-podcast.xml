@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>A Little Time to Talk</title>
+    <link>https://cnvxstudio.github.io/couple-compatibility-quiz-resources/ccq-podcast.html</link>
+    <language>en-US</language>
+    <description>Short, practical conversation breaks from Couple Compatibility Quiz. Take turns with original questions about everyday life, listening and connection. This show uses an AI-generated stock voice to narrate original conversation prompts. No real person is impersonated.</description>
+    <copyright>2026 Couple Compatibility Quiz</copyright>
+    <itunes:author>Couple Compatibility Quiz</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:summary>Short, practical conversation breaks from Couple Compatibility Quiz. Take turns with original questions about everyday life, listening and connection. This show uses an AI-generated stock voice to narrate original conversation prompts. No real person is impersonated.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Ethan Lee</itunes:name>
+      <itunes:email>cnvx.studio@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://cnvxstudio.github.io/couple-compatibility-quiz-resources/ccq-podcast-cover.jpg" />
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Relationships" />
+    </itunes:category>
+    <atom:link href="https://cnvxstudio.github.io/couple-compatibility-quiz-resources/ccq-podcast.xml" rel="self" type="application/rss+xml" />
+    <image>
+      <url>https://cnvxstudio.github.io/couple-compatibility-quiz-resources/ccq-podcast-cover.jpg</url>
+      <title>A Little Time to Talk</title>
+      <link>https://cnvxstudio.github.io/couple-compatibility-quiz-resources/ccq-podcast.html</link>
+    </image>
+    <item>
+      <title>Five questions for a weekly check-in</title>
+      <guid isPermaLink="false">urn:uuid:317a9d05-15cc-450a-9195-8b9fbc4dab8a</guid>
+      <pubDate>Mon, 19 Oct 2026 11:08:26 +0000</pubDate>
+      <link>https://cnvxstudio.github.io/couple-compatibility-quiz-resources/ccq-podcast.html#episode-1</link>
+      <description>Five open-ended questions for an unhurried weekly conversation. Pause after each question and skip any topic you prefer. This show uses an AI-generated stock voice to narrate original conversation prompts. No real person is impersonated. Written transcript and more free prompts: https://couplecompatibilityquiz.com/</description>
+      <itunes:summary>Five open-ended questions for an unhurried weekly conversation. Pause after each question and skip any topic you prefer. This show uses an AI-generated stock voice to narrate original conversation prompts. No real person is impersonated. Written transcript and more free prompts: https://couplecompatibilityquiz.com/</itunes:summary>
+      <itunes:duration>231</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <enclosure url="https://cnvxstudio.github.io/couple-compatibility-quiz-resources/ccq-episode-001.mp3" length="3689904" type="audio/mpeg" />
+      <content:encoded>&lt;p&gt;Five open-ended questions for an unhurried weekly conversation. Pause after each question and skip any topic you prefer. This show uses an AI-generated stock voice to narrate original conversation prompts. No real person is impersonated. Written transcript and more free prompts: https://couplecompatibilityquiz.com/&lt;/p&gt;&lt;p&gt;&lt;a href="https://cnvxstudio.github.io/couple-compatibility-quiz-resources/ccq-episode-001-transcript.txt"&gt;Read the transcript&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+  </channel>
+</rss>
